@@ -1,4 +1,4 @@
-# IntrinsicIQ — Scoring Methodology
+# Factor Research — Scoring Methodology
 
 > **Auditable. Deterministic. No black boxes.**
 >
